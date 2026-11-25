@@ -369,7 +369,6 @@ h2::after {
 .slide {
   position: relative;
   flex: 0 0 100%;
-  min-inline-size: 0;
   margin: 0;
   scroll-snap-align: center;
 }
